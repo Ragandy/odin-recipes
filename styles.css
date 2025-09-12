@@ -1,0 +1,36 @@
+body{
+    box-sizing: border-box;
+    width: 99%;
+    font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
+    
+    
+}
+.container{
+    background-color: rgb(143, 89, 182);
+    box-sizing: border-box;
+    border: 12px solid indigo;
+}
+h1{
+    text-align: center;
+    color: indigo;
+
+}
+
+.caption{
+    margin-top: 2px;
+    font-size: 10px
+}
+
+.home-list li{
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    
+}
+
+
+.home-list img{
+    display:block;
+    height: 400px;
+    margin: auto;
+}
